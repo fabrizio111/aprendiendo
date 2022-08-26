@@ -10,14 +10,14 @@ public class Introduction {
         Integer noPrimitivo=null;
         String cadena="Hola que tal?";
         final int valor=14; // es un valor constante, no cambia nunca su valor
-        /*
+
         System.out.println("La variable entero vale: " + entero);
         System.out.println("La variable decimal vale: " + decimal);
         System.out.println("La variable caracter vale: " + caracter);
         System.out.println("La variable noPrimitivo vale: " + noPrimitivo);
         System.out.println("La variable cadena vale: " + cadena);
         System.out.println("La variable valor vale: " + entero);
-        */
+
         //Entrada y salida de datos
         Scanner entrada = new Scanner(System.in);
         //Guardamos numeros
